@@ -1,0 +1,6 @@
+[submodule "deps/dnlib"]
+	path = deps/dnlib
+	url = https://github.com/0xd4d/dnlib.git
+[submodule "deps/Rivers"]
+	path = deps/Rivers
+	url = https://github.com/Washi1337/Rivers.git
