@@ -1,5 +1,5 @@
 # What is this?
-Atlas is a really good obfuscator base.
+Atlas is a really good obfuscator base, that can thus be used for any obfuscator project. Its main advantages are to be easy to understand and very reliable.
 
 # Disclaimer
 This project has not be made by me, but by someone named xSilent007.
